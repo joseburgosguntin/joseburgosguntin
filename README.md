@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseburgosguntin
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on full stack aplications
 - 📫 How to reach me josem.123burgos@gmail.com
 
