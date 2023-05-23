@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseburgosguntin
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how optimize and write perfomant code in rust
+- 🌱 I’m currently learning how optimize and write performant code in rust
 - 💞️ I’m looking to collaborate on full stack web aplications, and any kind of project in rust
 - 📫 How to reach me josem.123burgos@gmail.com
 
